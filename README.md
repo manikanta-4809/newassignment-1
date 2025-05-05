@@ -7,3 +7,4 @@ then again modifying the text in 10th line "text = hihi to text = new assignment
 Completion of second change commit then again modfiy the text, 6th line "text= new to text = fellow" and use add command then after enter commit chnages as third commit 
 Next after the third commit modify the text again and then add it to git using git add . then using commit command as fourth commit 
 Using git log to find the history of the log 
+uytrew
