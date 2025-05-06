@@ -21,6 +21,7 @@ Next after the third commit modify the text again and then add it to git using g
 Using git log to find the history of the log 
 uytrew
 
+
 # Screenshot of successfull pull and merge requests:
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/dcb22e98-1f6c-4090-8f8d-6bc37e1e9b67" />
